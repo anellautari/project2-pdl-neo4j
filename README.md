@@ -33,6 +33,7 @@ project2-pdl-neo4j
 │
 ├── data    
 ├── diagram
+├── docs
 ├── query_cypher
 ├── query_sql
 ├── seed
