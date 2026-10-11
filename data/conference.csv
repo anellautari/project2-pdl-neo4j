@@ -1,0 +1,201 @@
+id,confName,year
+C0001,International Conference on Cyber Security,2023
+C0002,International Conference on Natural Language Processing,2025
+C0003,International Conference on Cloud Computing,2021
+C0004,International Conference on Cyber Security,2026
+C0005,International Conference on Cyber Security,2016
+C0006,International Conference on Cloud Computing,2023
+C0007,International Conference on Internet of Things,2017
+C0008,International Conference on Natural Language Processing,2016
+C0009,International Conference on Natural Language Processing,2016
+C0010,International Conference on Cloud Computing,2018
+C0011,International Conference on Deep Learning,2023
+C0012,International Conference on Data Mining,2021
+C0013,International Conference on Internet of Things,2025
+C0014,International Conference on Machine Learning,2019
+C0015,International Conference on Cyber Security,2026
+C0016,International Conference on Computer Vision,2015
+C0017,International Conference on Computer Vision,2016
+C0018,International Conference on Cyber Security,2016
+C0019,International Conference on Big Data,2024
+C0020,International Conference on Internet of Things,2015
+C0021,International Conference on Natural Language Processing,2025
+C0022,International Conference on Deep Learning,2016
+C0023,International Conference on Artificial Intelligence,2026
+C0024,International Conference on Deep Learning,2026
+C0025,International Conference on Artificial Intelligence,2017
+C0026,International Conference on Big Data,2020
+C0027,International Conference on Cloud Computing,2023
+C0028,International Conference on Natural Language Processing,2017
+C0029,International Conference on Data Mining,2017
+C0030,International Conference on Natural Language Processing,2026
+C0031,International Conference on Machine Learning,2015
+C0032,International Conference on Data Mining,2021
+C0033,International Conference on Natural Language Processing,2023
+C0034,International Conference on Machine Learning,2019
+C0035,International Conference on Internet of Things,2025
+C0036,International Conference on Machine Learning,2022
+C0037,International Conference on Big Data,2023
+C0038,International Conference on Data Mining,2015
+C0039,International Conference on Big Data,2024
+C0040,International Conference on Deep Learning,2020
+C0041,International Conference on Deep Learning,2019
+C0042,International Conference on Machine Learning,2024
+C0043,International Conference on Machine Learning,2018
+C0044,International Conference on Cloud Computing,2015
+C0045,International Conference on Artificial Intelligence,2015
+C0046,International Conference on Computer Vision,2015
+C0047,International Conference on Big Data,2020
+C0048,International Conference on Cyber Security,2017
+C0049,International Conference on Deep Learning,2015
+C0050,International Conference on Cloud Computing,2026
+C0051,International Conference on Cyber Security,2018
+C0052,International Conference on Data Mining,2018
+C0053,International Conference on Cyber Security,2026
+C0054,International Conference on Data Mining,2019
+C0055,International Conference on Machine Learning,2024
+C0056,International Conference on Data Mining,2016
+C0057,International Conference on Cloud Computing,2025
+C0058,International Conference on Artificial Intelligence,2017
+C0059,International Conference on Computer Vision,2023
+C0060,International Conference on Artificial Intelligence,2021
+C0061,International Conference on Machine Learning,2022
+C0062,International Conference on Natural Language Processing,2019
+C0063,International Conference on Data Mining,2016
+C0064,International Conference on Cloud Computing,2022
+C0065,International Conference on Artificial Intelligence,2020
+C0066,International Conference on Computer Vision,2019
+C0067,International Conference on Internet of Things,2019
+C0068,International Conference on Internet of Things,2018
+C0069,International Conference on Big Data,2020
+C0070,International Conference on Internet of Things,2022
+C0071,International Conference on Computer Vision,2026
+C0072,International Conference on Cloud Computing,2018
+C0073,International Conference on Deep Learning,2015
+C0074,International Conference on Cyber Security,2015
+C0075,International Conference on Computer Vision,2023
+C0076,International Conference on Data Mining,2025
+C0077,International Conference on Artificial Intelligence,2020
+C0078,International Conference on Artificial Intelligence,2025
+C0079,International Conference on Cyber Security,2026
+C0080,International Conference on Natural Language Processing,2016
+C0081,International Conference on Computer Vision,2023
+C0082,International Conference on Computer Vision,2021
+C0083,International Conference on Big Data,2015
+C0084,International Conference on Deep Learning,2026
+C0085,International Conference on Natural Language Processing,2016
+C0086,International Conference on Artificial Intelligence,2018
+C0087,International Conference on Cloud Computing,2021
+C0088,International Conference on Data Mining,2022
+C0089,International Conference on Machine Learning,2024
+C0090,International Conference on Machine Learning,2023
+C0091,International Conference on Deep Learning,2025
+C0092,International Conference on Cyber Security,2016
+C0093,International Conference on Internet of Things,2024
+C0094,International Conference on Artificial Intelligence,2021
+C0095,International Conference on Deep Learning,2018
+C0096,International Conference on Natural Language Processing,2019
+C0097,International Conference on Data Mining,2021
+C0098,International Conference on Data Mining,2020
+C0099,International Conference on Big Data,2019
+C0100,International Conference on Computer Vision,2016
+C0101,International Conference on Computer Vision,2017
+C0102,International Conference on Internet of Things,2016
+C0103,International Conference on Deep Learning,2016
+C0104,International Conference on Deep Learning,2022
+C0105,International Conference on Big Data,2020
+C0106,International Conference on Cyber Security,2016
+C0107,International Conference on Cloud Computing,2020
+C0108,International Conference on Computer Vision,2022
+C0109,International Conference on Natural Language Processing,2022
+C0110,International Conference on Natural Language Processing,2016
+C0111,International Conference on Machine Learning,2017
+C0112,International Conference on Natural Language Processing,2026
+C0113,International Conference on Internet of Things,2015
+C0114,International Conference on Computer Vision,2020
+C0115,International Conference on Deep Learning,2016
+C0116,International Conference on Computer Vision,2020
+C0117,International Conference on Cyber Security,2023
+C0118,International Conference on Artificial Intelligence,2025
+C0119,International Conference on Natural Language Processing,2019
+C0120,International Conference on Deep Learning,2015
+C0121,International Conference on Cyber Security,2022
+C0122,International Conference on Cloud Computing,2026
+C0123,International Conference on Cloud Computing,2018
+C0124,International Conference on Machine Learning,2022
+C0125,International Conference on Machine Learning,2017
+C0126,International Conference on Machine Learning,2015
+C0127,International Conference on Artificial Intelligence,2018
+C0128,International Conference on Deep Learning,2018
+C0129,International Conference on Cyber Security,2020
+C0130,International Conference on Machine Learning,2024
+C0131,International Conference on Internet of Things,2019
+C0132,International Conference on Machine Learning,2015
+C0133,International Conference on Machine Learning,2018
+C0134,International Conference on Big Data,2017
+C0135,International Conference on Machine Learning,2020
+C0136,International Conference on Machine Learning,2015
+C0137,International Conference on Big Data,2015
+C0138,International Conference on Deep Learning,2024
+C0139,International Conference on Cyber Security,2026
+C0140,International Conference on Cyber Security,2022
+C0141,International Conference on Artificial Intelligence,2021
+C0142,International Conference on Cyber Security,2017
+C0143,International Conference on Data Mining,2018
+C0144,International Conference on Deep Learning,2019
+C0145,International Conference on Natural Language Processing,2022
+C0146,International Conference on Deep Learning,2015
+C0147,International Conference on Internet of Things,2024
+C0148,International Conference on Internet of Things,2018
+C0149,International Conference on Natural Language Processing,2022
+C0150,International Conference on Cyber Security,2023
+C0151,International Conference on Big Data,2015
+C0152,International Conference on Machine Learning,2019
+C0153,International Conference on Cyber Security,2017
+C0154,International Conference on Cyber Security,2018
+C0155,International Conference on Cloud Computing,2018
+C0156,International Conference on Cloud Computing,2015
+C0157,International Conference on Cyber Security,2026
+C0158,International Conference on Data Mining,2022
+C0159,International Conference on Cloud Computing,2022
+C0160,International Conference on Data Mining,2024
+C0161,International Conference on Cloud Computing,2020
+C0162,International Conference on Cyber Security,2019
+C0163,International Conference on Deep Learning,2015
+C0164,International Conference on Data Mining,2024
+C0165,International Conference on Computer Vision,2015
+C0166,International Conference on Natural Language Processing,2015
+C0167,International Conference on Big Data,2023
+C0168,International Conference on Data Mining,2024
+C0169,International Conference on Computer Vision,2017
+C0170,International Conference on Machine Learning,2018
+C0171,International Conference on Computer Vision,2019
+C0172,International Conference on Cloud Computing,2026
+C0173,International Conference on Artificial Intelligence,2018
+C0174,International Conference on Internet of Things,2021
+C0175,International Conference on Data Mining,2017
+C0176,International Conference on Deep Learning,2018
+C0177,International Conference on Internet of Things,2020
+C0178,International Conference on Data Mining,2024
+C0179,International Conference on Artificial Intelligence,2026
+C0180,International Conference on Data Mining,2024
+C0181,International Conference on Internet of Things,2017
+C0182,International Conference on Internet of Things,2018
+C0183,International Conference on Big Data,2023
+C0184,International Conference on Natural Language Processing,2017
+C0185,International Conference on Big Data,2015
+C0186,International Conference on Machine Learning,2015
+C0187,International Conference on Computer Vision,2024
+C0188,International Conference on Computer Vision,2015
+C0189,International Conference on Cloud Computing,2022
+C0190,International Conference on Artificial Intelligence,2020
+C0191,International Conference on Internet of Things,2018
+C0192,International Conference on Deep Learning,2020
+C0193,International Conference on Deep Learning,2020
+C0194,International Conference on Artificial Intelligence,2015
+C0195,International Conference on Deep Learning,2024
+C0196,International Conference on Deep Learning,2016
+C0197,International Conference on Cloud Computing,2020
+C0198,International Conference on Machine Learning,2020
+C0199,International Conference on Cyber Security,2024
+C0200,International Conference on Machine Learning,2020
