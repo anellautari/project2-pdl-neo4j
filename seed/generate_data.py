@@ -184,7 +184,7 @@ cites=[]
 for i in range(1,NUM_PAPER+1):
     references=random.sample(
         range(1,NUM_PAPER+1),
-        random.randint(0,5)
+        random.randint(0,2)
     )
 
     for ref in references:
